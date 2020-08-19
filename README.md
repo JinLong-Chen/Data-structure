@@ -1,0 +1,2 @@
+# -
+All abstruct data type~
